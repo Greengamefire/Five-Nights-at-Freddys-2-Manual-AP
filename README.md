@@ -5,7 +5,7 @@ You get checks from Blocking Jumpscares, Listening to Phone Guy, and Completing 
 # Options
 You can include wether Vent Lights are just in logic or not in the game at all
 
-You can also choose to include the Special Custom Nights
+You can also choose to include the Special Custom Nights, Night 6, or Custom Night (Since the goals don't automatically do it)
 # Contact-Me
 If you have any Questions, Bugs, or Additions that you may want to add or notify me of, please feel free to tell me them in the Manuals for Archipelago server thread for FNaF2 and @greengamefire or dm me for anything relating to this
 
