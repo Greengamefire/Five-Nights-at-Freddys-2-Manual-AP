@@ -3,7 +3,7 @@ You play FNaF 2 by unlocking Nights and blocking jumpscares
 # How-it-Works
 You get checks from Blocking Jumpscares, Listening to Phone Guy, and Completing Nights
 # Options
-You can include wether Vent Lights are just in logic or not in the game at all
+You can include wether Vent Lights are in logic
 
 You can also choose to include the Special Custom Nights, Night 6, or Custom Night (Since the goals don't automatically do it)
 # Contact-Me
